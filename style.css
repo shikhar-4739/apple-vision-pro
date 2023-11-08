@@ -1181,7 +1181,7 @@ html, body{
         font-size: 3.5vw;
     }
     #page24{
-        height: 80vh;
+        height: 90vh;
         width: 100vw;
     }
     #page24>img{
@@ -1200,10 +1200,10 @@ html, body{
     #page24>h2{
         font-size: 5.5vw;
         width: 90%;
-        top: 68vw;
+        top: 75vw;
     }
     #page24>button{
-        top: 140vw;
+        top: 150vw;
         padding: 9px 8px;
         font-size: 3.6vw;
     }
@@ -1234,7 +1234,7 @@ html, body{
     }
     .right25{
         top: 75vw;
-        right: 111px;
+        right: 115px;
         width: 50%;
     }
     .right25>img{
@@ -1246,7 +1246,7 @@ html, body{
         margin-top: 8vh;
         margin-left: 15px;
         width: 90vw;
-        height: 114vh;
+        height: 125vh;
 
     }
     #page26>img{
@@ -1280,7 +1280,7 @@ html, body{
     }
     #page27-text{
         left: 4vh;
-        top: 103vh;
+        top: 120vh;
     }
     .text>h1{
         width: 100%;
