@@ -1176,7 +1176,7 @@ html, body{
         width: 90%;
     }
     #page23-text>button{
-        bottom: 9%;
+        bottom: 2%;
         padding: 8px 7px;
         font-size: 3.5vw;
     }
@@ -1203,7 +1203,7 @@ html, body{
         top: 75vw;
     }
     #page24>button{
-        top: 150vw;
+        top: 155vw;
         padding: 9px 8px;
         font-size: 3.6vw;
     }
@@ -1292,7 +1292,7 @@ html, body{
     }
     #footer{
         left: 23vw;
-        bottom: 18vw;
+        bottom: 0vw;
     }
     #footer>p{
         width: 80%;
